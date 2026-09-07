@@ -1,4 +1,4 @@
-# 桜ネイルサロン Web Site
+# 桜ネイルサロン ウェブ
 
 名古屋市北区・上飯田の「桜ネイルサロン」公式サイトです。
 Next.js App Router、TypeScript、Tailwind CSS v4で構築しています。
